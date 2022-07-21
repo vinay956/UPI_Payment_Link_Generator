@@ -22,11 +22,11 @@ const Footer: NextPage = () => {
       <p className="tuhin">
         An Open Source Project by{" "}
         <a
-          href="http://thetuhin.com/?ref=upier"
+          href="https://github.com/vinay956/UPI_Payment_Link_Generator"
           target="_blank"
           rel="noreferrer"
         >
-          Tuhin
+          Vinay Kumar Basava
         </a>
       </p>
       <img
