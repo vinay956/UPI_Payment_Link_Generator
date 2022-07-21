@@ -4,14 +4,11 @@ import Link from "next/link";
 const Footer: NextPage = () => {
   return (
     <footer className="footer">
+      <br>
+      <br>
+      <br>
       <p className="slogan">
-        There is a technical issue with{" "}
-        <img
-          src="https://cdn.worldvectorlogo.com/logos/phonepe-1.svg"
-          className="upilogo"
-          width="40"
-          alt="Upi Icon"
-        />
+        There is a technical issue with Phonepe Please Use Other UPI Apps
       </p>
       <h1 className="logo">UPI Pay</h1>
       <p className="tpf">
