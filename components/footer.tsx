@@ -5,7 +5,7 @@ const Footer: NextPage = () => {
   return (
     <footer className="footer">
       <p className="slogan">
-        There is a technical issue with&apos;s {" "} Please Use Other UPI Apps
+        There is a technical issue with{" "}
         <img
           src="https://cdn.worldvectorlogo.com/logos/phonepe-1.svg"
           className="upilogo"
