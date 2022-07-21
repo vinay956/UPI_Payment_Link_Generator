@@ -19,22 +19,6 @@ const Footer: NextPage = () => {
           <u>Privacy Policy</u>
         </Link>
       </p>
-      <p className="tuhin">
-        An Open Source Project by{" "}
-        <a
-          href="https://github.com/vinay956/UPI_Payment_Link_Generator"
-          target="_blank"
-          rel="noreferrer"
-        >
-          Vinay Kumar Basava
-        </a>
-      </p>
-      <img
-        src="/images/github.svg"
-        className="center"
-        width="35"
-        alt="Github"
-      />
     </footer>
   );
 };
