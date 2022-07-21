@@ -4,9 +4,8 @@ import Link from "next/link";
 const Footer: NextPage = () => {
   return (
     <footer className="footer">
-      <h1 className="logo">UPI Pay</h1>
       <p className="slogan">
-        There is a technical issue with {" "} Please Use Other UPI Apps
+        There is a technical issue with&apos;s {" "} Please Use Other UPI Apps
         <img
           src="https://cdn.worldvectorlogo.com/logos/phonepe-1.svg"
           className="upilogo"
@@ -14,6 +13,7 @@ const Footer: NextPage = () => {
           alt="Upi Icon"
         />
       </p>
+      <h1 className="logo">UPI Pay</h1>
       <p className="tpf">
         <Link href={"/privacy-policy"} passHref>
           <u>Privacy Policy</u>
