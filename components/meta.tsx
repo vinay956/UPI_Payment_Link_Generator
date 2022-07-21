@@ -8,9 +8,9 @@ const defaultData = {
     "UPI, Shareable UPI Link, Upi Shareable Link , Share UPI Payment's Link, Free Shareable UPI Link, UPI Payment",
   copyright: "Upier",
   topic: "Payment",
-  sitename: "Upier",
-  email: "me@thetuhin.com",
-  url: "https://upier.t-ps.net/",
+  sitename: "UPI Payment",
+  email: "admin@tedlance.com",
+  url: "tedlance.com",
   ogImage: image("Create a shareable deeplink for UPI Payment", 50),
 };
 
