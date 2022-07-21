@@ -4,7 +4,7 @@ import Link from "next/link";
 const Footer: NextPage = () => {
   return (
     <footer className="footer">
-      <h1 className="logo">U P I E R</h1>
+      <h1 className="logo">T E D P A Y</h1>
       <p className="slogan">
         Shareable Payment&apos;s Link for{" "}
         <img
