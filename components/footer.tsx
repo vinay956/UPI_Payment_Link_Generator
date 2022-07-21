@@ -4,8 +4,8 @@ import Link from "next/link";
 const Footer: NextPage = () => {
   return (
     <footer className="footer">
-      <p className="slogan"style="page-break-before: always">
-        There is a technical issue with Phonepe Please Use Other UPI Apps
+      <p className="slogan">
+        <br><br><br>There is a technical issue with Phonepe Please Use Other UPI Apps
       </p>
       <h1 className="logo">UPI Pay</h1>
       <p className="tpf">
