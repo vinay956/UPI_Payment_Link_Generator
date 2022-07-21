@@ -20,7 +20,7 @@ const Pay: NextPage = () => {
 
   return (
     <>
-      <Meta title="Pay | Upier" />
+      <Meta title="Pay | UPI" />
       <main>
         <Header title="Pay" />
         <section className="content pay">
