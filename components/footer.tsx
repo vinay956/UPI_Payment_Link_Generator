@@ -19,6 +19,9 @@ const Footer: NextPage = () => {
           <u>Privacy Policy</u>
         </Link>
       </p>
+       <p className="tuhin">
+         There is a technical issue with Phonepe Please Use Other UPI Apps
+      </p>
     </footer>
   );
 };
