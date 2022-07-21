@@ -6,9 +6,9 @@ const Footer: NextPage = () => {
     <footer className="footer">
       <h1 className="logo">T E D P A Y</h1>
       <p className="slogan">
-        Shareable Payment&apos;s Link for{" "}
+        There is a technical issue with {" "} Please Use Other UPI Apps
         <img
-          src="/images/upi.svg"
+          src="https://cdn.worldvectorlogo.com/logos/phonepe-1.svg"
           className="upilogo"
           width="40"
           alt="Upi Icon"
@@ -18,10 +18,6 @@ const Footer: NextPage = () => {
         <Link href={"/privacy-policy"} passHref>
           <u>Privacy Policy</u>
         </Link>
-      </p>
-       <p className="tuhin">
-         There is a technical issue with Phonepe Please Use Other UPI Apps
-      </p>
     </footer>
   );
 };
