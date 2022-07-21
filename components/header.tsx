@@ -13,8 +13,8 @@ const Header: NextPage<Props> = (props) => {
       try {
         if (navigator.share) {
           await navigator.share({
-            title: "Share | Upier",
-            text: "Upier Shareable Secure Payment's Link for UPI :\n",
+            title: "Share | UPI",
+            text: "UPI Shareable Secure Payment's Link for UPI :\n",
             url: window.location.href,
           });
           gtag.event({
