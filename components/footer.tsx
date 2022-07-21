@@ -4,9 +4,9 @@ import Link from "next/link";
 const Footer: NextPage = () => {
   return (
     <footer className="footer">
-      <p className="slogan">
-        There is a technical issue with Phonepe {"\n"} Please Use Other UPI Apps
-      </p>
+      <h3 className="slogan">
+        There is a technical issue with Phonepe <br/>Please Use Other UPI Apps
+      </h3>
       <h1 className="logo">UPI Pay</h1>
       <p className="tpf">
         <Link href={"/privacy-policy"} passHref>
