@@ -7,6 +7,7 @@ const Footer: NextPage = () => {
       <h3 className="slogan">
         <br/>There is a technical issue with Phonepe <br/>Please Use Other UPI Apps
       </h3>
+      {" "} {" "} {" "} {" "}
        <img
            src="https://www.svgrepo.com/show/303357/google-pay-primary-logo-logo.svg"
            className="upilogo"
